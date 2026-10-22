@@ -1,0 +1,20 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Marimo
+.marimo.toml
+__marimo__/
+
+# Editores / IDE
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
